@@ -1,4 +1,4 @@
-# mexrocketstove
+# Mexrocketstove
 Steel Modular Clean Cooking Stove Mex01
 
 ![alt text](https://github.com/leolira0568/mexrocketstove/blob/master/g15754.png)
