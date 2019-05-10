@@ -2,7 +2,8 @@
 Steel Modular Clean Cooking Stove Mex01
 
 ![alt text](https://github.com/leolira0568/mexrocketstove/blob/master/g15754.png)
-![alt text](https://github.com/leolira0568/mexrocketstove/blob/master/Render%20Stove1.png)
+![alt text](https://github.com/leolira0568/mexrocketstove/blob/master/Render%20Stove.png)
+![alt text](https://github.com/leolira0568/mexrocketstove/blob/master/616cca59605735.5a2aebfef001e.jpg)
 
 Prefabricated Clean Wood Burning Cookstove Developed in Mexico 2015-2016.
 For small business and comunities, it can reach 250°c in 10 Minutes, we adapted the Winarski Rocket Stove Principles
